@@ -71,9 +71,12 @@ struct FavoriteElements : Identifiable {
 }
 
 
+## 🎬 Demo Video
+
+▶️ [Click here to watch the demo video](https://github.com/user-attachments/assets/83700da2-cb02-4ca3-a748-58859103f88d
+demo)
 
 
-https://github.com/user-attachments/assets/5c2767ee-57f2-41e1-8300-75d3d0b74140
 
 
 
